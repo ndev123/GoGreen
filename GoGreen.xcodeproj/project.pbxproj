@@ -14,6 +14,7 @@
 		5DD6CCAD28870FD7000D748C /* GoGreen.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5DD6CCAB28870FD7000D748C /* GoGreen.xcdatamodeld */; };
 		5DD6CCAF28870FDA000D748C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5DD6CCAE28870FDA000D748C /* Assets.xcassets */; };
 		5DD6CCB228870FDA000D748C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DD6CCB028870FDA000D748C /* LaunchScreen.storyboard */; };
+		9CE5AC882889C71F007E53A9 /* SupportViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CE5AC872889C71F007E53A9 /* SupportViewController.swift */; };
 		BD5628882887BC9C000F841B /* VeganRecipesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5628872887BC9C000F841B /* VeganRecipesViewController.swift */; };
 		BD56288A2887BCFF000F841B /* ClimateChangeActionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD5628892887BCFF000F841B /* ClimateChangeActionViewController.swift */; };
 		BD56288C2887BD24000F841B /* SlowFashionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD56288B2887BD24000F841B /* SlowFashionViewController.swift */; };
@@ -29,6 +30,7 @@
 		5DD6CCAE28870FDA000D748C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5DD6CCB128870FDA000D748C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5DD6CCB328870FDA000D748C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9CE5AC872889C71F007E53A9 /* SupportViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SupportViewController.swift; sourceTree = "<group>"; };
 		BD5628872887BC9C000F841B /* VeganRecipesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VeganRecipesViewController.swift; sourceTree = "<group>"; };
 		BD5628892887BCFF000F841B /* ClimateChangeActionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClimateChangeActionViewController.swift; sourceTree = "<group>"; };
 		BD56288B2887BD24000F841B /* SlowFashionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlowFashionViewController.swift; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				5DD6CCA228870FD7000D748C /* AppDelegate.swift */,
 				5DD6CCA428870FD7000D748C /* SceneDelegate.swift */,
 				5DD6CCA628870FD7000D748C /* ViewController.swift */,
+				9CE5AC872889C71F007E53A9 /* SupportViewController.swift */,
 				BD5628872887BC9C000F841B /* VeganRecipesViewController.swift */,
 				BD5628892887BCFF000F841B /* ClimateChangeActionViewController.swift */,
 				BD56288B2887BD24000F841B /* SlowFashionViewController.swift */,
@@ -152,6 +155,7 @@
 			files = (
 				5DD6CCA728870FD7000D748C /* ViewController.swift in Sources */,
 				5DD6CCA328870FD7000D748C /* AppDelegate.swift in Sources */,
+				9CE5AC882889C71F007E53A9 /* SupportViewController.swift in Sources */,
 				BD56288A2887BCFF000F841B /* ClimateChangeActionViewController.swift in Sources */,
 				BD5628882887BC9C000F841B /* VeganRecipesViewController.swift in Sources */,
 				5DD6CCA528870FD7000D748C /* SceneDelegate.swift in Sources */,
